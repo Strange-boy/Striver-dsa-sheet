@@ -1,0 +1,1 @@
+{"name":"Local: reading","url":"/home/curiouskid/Shin sei/Striver-dsa-sheet/Arrays/reading.cpp","tests":[{"id":1691938657493,"input":"5 5\n4 1 2 3 1","output":"YES"},{"id":1691938667304,"input":"2 1\n1 2","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/curiouskid/Shin sei/Striver-dsa-sheet/Arrays/reading.cpp","group":"local","local":true}
