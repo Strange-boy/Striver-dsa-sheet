@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//optimal approach to solve the problem
+//optimal approach to solve the problem -> Two pointer approach to solve the problem
+//TC: O(2n)
 int twoPointerGetLongestSubarray(vector<int> &nums, long long int sum){
     int left = 0;
     int right = 0;
