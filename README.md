@@ -12,3 +12,4 @@ Medium:
 HARD:
 1. Merge Overlapping SubIntervals (leetcode) (codeStudio cn)
 2. Merge Two Sorted arrays (leetcode) (codeStudio cn) -> (Interesting gap approach to solve the problem)
+3. Find the missing and the repeating elements (code studio) (missRepeat.cpp)
