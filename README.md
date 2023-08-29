@@ -14,4 +14,5 @@ HARD:
 2. Merge Two Sorted arrays (leetcode) (codeStudio cn) -> (Interesting gap approach to solve the problem)
 3. Find the missing and the repeating elements (code studio) (missRepeat.cpp)
 4. 4 sum (fourSum.cpp)
+5. Count inversions (countInversion.cpp)
 
