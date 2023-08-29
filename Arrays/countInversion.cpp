@@ -65,9 +65,9 @@ int optimalCountInversion(vector<int> &nums){
     return mergeSort(nums, 0, nums.size() - 1);
 }
 
-//brute: simply use the double loop to find the number of inversion
-//Time complexity: O(N^2)
-//Space complexity: O(1)
+// brute: simply use the double loop to find the number of inversion
+// Time complexity: O(N^2)
+// Space complexity: O(1)
 int bruteCountInversion(vector<int> &nums){
     int cntInversion = 0;
 
