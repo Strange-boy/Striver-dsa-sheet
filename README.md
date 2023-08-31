@@ -16,3 +16,7 @@ HARD:
 4. 4 sum (fourSum.cpp)
 5. Count inversions (countInversion.cpp)
 
+
+BINARY SEARCH:
+1. Introduction (Recursive and Iterative approach)
+
