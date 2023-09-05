@@ -23,6 +23,9 @@ int lowerBound(vector<int> &nums, int target){
         }
     }
 
+    //in order to use the stl
+    // ans = lower_bound(nums.begin(), nums.end(), target) - nums.begin();
+
     return ans;
 }
 
