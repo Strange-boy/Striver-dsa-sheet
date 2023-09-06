@@ -21,3 +21,4 @@ BINARY SEARCH:
 1. Introduction (Recursive and Iterative approach)
 2. Lower bound (lowerBound.cpp)
 3. Upper bound (upperBound.cpp)
+4. Search Insert position(searchInsert.cpp)
