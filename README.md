@@ -24,3 +24,4 @@ BINARY SEARCH:
 4. Search Insert position(searchInsert.cpp)
 5. Ceil and Floor of an element (ceilFloor.cpp)
 6. Find the first occurence and Last occurence of Element (firstLastOccur.cpp)
+7. Count occurence of the element (sorted) (countOccur.cpp)
