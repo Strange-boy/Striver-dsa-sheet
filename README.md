@@ -22,3 +22,4 @@ BINARY SEARCH:
 2. Lower bound (lowerBound.cpp)
 3. Upper bound (upperBound.cpp)
 4. Search Insert position(searchInsert.cpp)
+5. Ceil and Floor of an element (ceilFloor.cpp)
