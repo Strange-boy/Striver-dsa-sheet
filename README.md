@@ -23,3 +23,4 @@ BINARY SEARCH:
 3. Upper bound (upperBound.cpp)
 4. Search Insert position(searchInsert.cpp)
 5. Ceil and Floor of an element (ceilFloor.cpp)
+6. Find the first occurence and Last occurence of Element (firstLastOccur.cpp)
