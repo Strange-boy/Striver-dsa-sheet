@@ -25,3 +25,4 @@ BINARY SEARCH:
 5. Ceil and Floor of an element (ceilFloor.cpp)
 6. Find the first occurence and Last occurence of Element (firstLastOccur.cpp)
 7. Count occurence of the element (sorted) (countOccur.cpp)
+8. Search in a Rotated Sorted Array (searchRotated.cpp)
