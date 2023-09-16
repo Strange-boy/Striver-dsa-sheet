@@ -26,3 +26,4 @@ BINARY SEARCH:
 6. Find the first occurence and Last occurence of Element (firstLastOccur.cpp)
 7. Count occurence of the element (sorted) (countOccur.cpp)
 8. Search in a Rotated Sorted Array (searchRotated.cpp)
+9. Search in Rotated Sorted Array II (searchRotate2.cpp)
