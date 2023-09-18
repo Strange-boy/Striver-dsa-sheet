@@ -27,3 +27,4 @@ BINARY SEARCH:
 7. Count occurence of the element (sorted) (countOccur.cpp)
 8. Search in a Rotated Sorted Array (searchRotated.cpp)
 9. Search in Rotated Sorted Array II (searchRotate2.cpp)
+10. Find the minimum in Sorted Rotated Array(minRotate.cpp) (unique)
