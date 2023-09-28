@@ -29,3 +29,4 @@ BINARY SEARCH:
 9. Search in Rotated Sorted Array II (searchRotate2.cpp)
 10. Find the minimum in Sorted Rotated Array(minRotate.cpp) (unique)
 11. Find the minimum in Sorted Rotated Array(minRotate2.cpp) (duplicates)
+12. Number of Rotations (arrayRotated.cpp)
