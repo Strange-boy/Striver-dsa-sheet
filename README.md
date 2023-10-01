@@ -32,3 +32,6 @@ BINARY SEARCH:
 12. Number of Rotations (arrayRotated.cpp)
 13. Single Element in the sorted rotated array (singleElement.cpp) 
 14. Find the peak element (peakElement.cpp)
+
+Binary search on answers:
+1. Find the square root of an Integer(sqrtInt.cpp)
