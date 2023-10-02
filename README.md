@@ -35,3 +35,4 @@ BINARY SEARCH:
 
 Binary search on answers:
 1. Find the square root of an Integer(sqrtInt.cpp)
+2. Find the nth Root of an Integer (nthRoot.cpp)
