@@ -38,3 +38,4 @@ Binary search on answers:
 2. Find the nth Root of an Integer (nthRoot.cpp)
 3. Koko Eating bananas (kokoBanana.cpp)
 4. Minimum number of day to make M Bouquet(minDayBouquet.cpp)
+5. Find the smallest divisor (smallDiv.cpp)
