@@ -40,3 +40,4 @@ Binary search on answers:
 4. Minimum number of day to make M Bouquet(minDayBouquet.cpp)
 5. Find the smallest divisor (smallDiv.cpp)
 6. Capacity to ship Packages within D days(shipPackage.cpp)
+7. Kth Missing positive number(kthPositive.cpp)
