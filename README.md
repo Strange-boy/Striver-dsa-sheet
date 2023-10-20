@@ -39,3 +39,4 @@ Binary search on answers:
 3. Koko Eating bananas (kokoBanana.cpp)
 4. Minimum number of day to make M Bouquet(minDayBouquet.cpp)
 5. Find the smallest divisor (smallDiv.cpp)
+6. Capacity to ship Packages within D days(shipPackage.cpp)
