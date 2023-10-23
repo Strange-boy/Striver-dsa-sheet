@@ -41,3 +41,4 @@ Binary search on answers:
 5. Find the smallest divisor (smallDiv.cpp)
 6. Capacity to ship Packages within D days(shipPackage.cpp)
 7. Kth Missing positive number(kthPositive.cpp)
+8. Aggresive Cows(agrCows.cpp)
