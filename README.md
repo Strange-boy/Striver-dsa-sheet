@@ -42,3 +42,4 @@ Binary search on answers:
 6. Capacity to ship Packages within D days(shipPackage.cpp)
 7. Kth Missing positive number(kthPositive.cpp)
 8. Aggresive Cows(agrCows.cpp)
+9. Book Allocation(bookAllocate.cpp)
