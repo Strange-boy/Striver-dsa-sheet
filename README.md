@@ -44,3 +44,4 @@ Binary search on answers:
 8. Aggresive Cows(agrCows.cpp)
 9. Book Allocation(bookAllocate.cpp)
 10. Split Array Largest sum(splitLargest.cpp)
+11. Painter's Partition(painterPart.cpp)
