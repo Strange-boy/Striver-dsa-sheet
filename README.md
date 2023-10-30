@@ -45,3 +45,4 @@ Binary search on answers:
 9. Book Allocation(bookAllocate.cpp)
 10. Split Array Largest sum(splitLargest.cpp)
 11. Painter's Partition(painterPart.cpp)
+12. Minimise the distance between gas station(gasStation.cpp)
