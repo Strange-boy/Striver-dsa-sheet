@@ -46,3 +46,4 @@ Binary search on answers:
 10. Split Array Largest sum(splitLargest.cpp)
 11. Painter's Partition(painterPart.cpp)
 12. Minimise the distance between gas station(gasStation.cpp)
+13. Median of Two sorted Arrays(medianSorted.cpp)(Brute and Better)
