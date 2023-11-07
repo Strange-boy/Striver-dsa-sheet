@@ -1,0 +1,25 @@
+Introduction to Binary Trees:
+
+Binary Tree has basically 0, 1, 2 child.
+
+Properties of Binary Tree:
+
+1. The node at the top of the tree is called the Root node.
+2. Nodes that do not have any child nodes are called leaf nodes.
+
+Types of Binary Tree:
+
+1. FULL BINARY TREE
+In a full binary tree, every node except the leaves has exactly two children.
+
+2. COMPLETE BINARY TREE
+In a complete binary tree, every level of the tree is completely filled except for the last level, which can be partially filled.
+
+3. PERFECT BINARY TREE
+Leaf nodes are present at the same level.
+
+4. BALANCED BINARY TREE 
+Height of the tree => log(Nodes)
+
+5. DEGENERATE TREE 
+They basically skewed trees

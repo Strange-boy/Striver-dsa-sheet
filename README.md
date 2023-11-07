@@ -47,3 +47,6 @@ Binary search on answers:
 11. Painter's Partition(painterPart.cpp)
 12. Minimise the distance between gas station(gasStation.cpp)
 13. Median of Two sorted Arrays(medianSorted.cpp)(Brute and Better)
+
+Trees:
+1. Introduction to Trees(treeIntro.txt)
