@@ -50,6 +50,8 @@ Binary search on answers:
 
 Recursion(Pepcoding):
 1. Print increasing(printIncr.cpp)
+2. Print decreasing(printDecr.cpp)
+
 
 Trees:
 1. Introduction to Trees(treeIntro.txt)
