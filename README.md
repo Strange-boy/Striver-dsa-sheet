@@ -54,6 +54,7 @@ Recursion(Pepcoding):
 3. Print Increasing Decreasing(printIncrDecr.cpp)
 4. Find Factorial(fact.cpp)
 5. Find Power-linear(powLinear.cpp)
+6. Find Power-logarithmic(powLog.cpp)
 
 
 
