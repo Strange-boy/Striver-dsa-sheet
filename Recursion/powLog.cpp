@@ -11,13 +11,13 @@ int power(int x, int n){
 
     // low level + high level thinking
     int xnb2 = power(x , n / 2);
-    int xn = power(x, n / 2);
+    int xn = xnb2 * xnb2;
 
     if(n % 2){
         xn = xn * x;
     }
 
-    return x;
+    return xn;
 }
 
 int main(){
