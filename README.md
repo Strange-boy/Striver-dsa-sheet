@@ -56,6 +56,7 @@ Recursion(Pepcoding):
 5. Find Power-linear(powLinear.cpp)
 6. Find Power-logarithmic(powLog.cpp)
 7. Print zigzag(zigzag.cpp)
+8. Tower of Hanoi(towerOfHanoi.cpp)
 
 
 
