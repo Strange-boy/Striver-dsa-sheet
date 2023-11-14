@@ -64,6 +64,8 @@ Recursion in Arrays:
 3. Maximum of an Array(maxArray.cpp)
 4. First index of Occurence(firstIdx.cpp)
 5. Last index of Occurence(lastIdx.cpp)
+6. Find all Index of Occurence(allIndex.cpp)
+
 
 
 
