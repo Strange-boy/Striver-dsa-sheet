@@ -63,6 +63,8 @@ Recursion in Arrays:
 2. Displayy array reverse(dispArrReverse.cpp)
 3. Maximum of an Array(maxArray.cpp)
 4. First index of Occurence(firstIdx.cpp)
+5. Last index of Occurence(lastIdx.cpp)
+
 
 
 
