@@ -69,6 +69,8 @@ Recursion in Arrays:
 Recursion in Vectors:
 1. Get subsequence (getSubsequence.cpp)
 2. Get Keypad Combination(getKpc.cpp)
+3. Get Stair paths(getStair.cpp)
+
 
 
 
