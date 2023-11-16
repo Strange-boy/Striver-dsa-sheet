@@ -71,6 +71,8 @@ Recursion in Vectors:
 2. Get Keypad Combination(getKpc.cpp)
 3. Get Stair paths(getStair.cpp)
 4. Get Maze paths(mazePaths.cpp)
+5. Get Maze paths with Jumps(mazePathJump.cpp)
+
 
 
 
