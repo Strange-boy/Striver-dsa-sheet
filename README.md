@@ -78,6 +78,7 @@ Recursion on Way Up:
 2. Print KeyPad combination(printKPC.cpp)
 3. Print Stair path(printStairPath.cpp)
 4. Print Maze Path(printMazePath.cpp)
+5. Print Maze Path with Jumps(printMazePathJump.cpp)
 
 
 
