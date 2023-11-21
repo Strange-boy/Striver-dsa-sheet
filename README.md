@@ -80,6 +80,7 @@ Recursion on Way Up:
 4. Print Maze Path(printMazePath.cpp)
 5. Print Maze Path with Jumps(printMazePathJump.cpp)
 6. Print permutation (printPerm.cpp)
+7. Print encoding (printEncode.cpp)
 
 
 
