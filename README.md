@@ -86,6 +86,7 @@ Recursion Backtracking:
 1. Flood Fill(floodFill.cpp)
 2. Target sum subsets(targetSum.cpp)
 3. N Queens (nQueens.cpp)
+4. Knights Tour(knightsTour.cpp)
 
 
 
