@@ -89,6 +89,9 @@ Recursion Backtracking:
 4. Knights Tour(knightsTour.cpp)
 
 
+Pepcoding: (Level 2)
+1. permutations - item chooses box(perm(item).cpp)
+
 
 
 
