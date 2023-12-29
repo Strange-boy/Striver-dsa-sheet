@@ -96,6 +96,8 @@ Pepcoding: (Level 2)
 4. Combinations - items chooses box(comb(item).cpp)
 5. Queens Permutations - 2d as 2d - Queen chooses(queenPerm(queen).cpp)
 6. Queens Combinations - 2d as 2d - Box chooses(queenComb(box).cpp)
+7. Queens Permutations - 2d as 2d - Box chooses(queenPerm(box).cpp)
+
 
 
 
