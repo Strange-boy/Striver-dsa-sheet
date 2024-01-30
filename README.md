@@ -99,16 +99,9 @@ Pepcoding: (Level 2)
 7. Queens Permutations - 2d as 2d - Box chooses(queenPerm(box).cpp)
 
 
-
-
-
-
-
-
-
-
-
-
+Linked List:
+1. Creating a node in Linked List (node.cpp)
+2. Converting an Array to Linked List (arrayToLinkedList.cpp)
 
 
 
